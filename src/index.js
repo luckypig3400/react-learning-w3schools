@@ -29,3 +29,14 @@ class Model extends Car {
 
 const mycar = new Model("Toyota", "Rav4");
 console.log(mycar.show());
+
+const myArray = ['apple', 'banana', 'orange'];
+const myList = myArray.map(
+  // The .map() method allows you to run a function on each item in the array
+  (item) => {
+    let string = `<p>${item}</p>`;
+    console.log(string);
+    return `<p>${item}</p>`;
+  }
+);
+// In React, map() can be used to generate lists.

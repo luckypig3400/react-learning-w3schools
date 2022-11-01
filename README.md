@@ -10,7 +10,10 @@
 - [x] https://www.w3schools.com/REACT/react_getstarted.asp
 - [x] https://www.w3schools.com/REACT/react_es6.asp
 - [x] https://www.w3schools.com/REACT/react_es6_classes.asp
-- [ ] https://www.w3schools.com/REACT/react_es6_arrow.asp
+- [x] https://www.w3schools.com/REACT/react_es6_arrow.asp
+- [x] https://www.w3schools.com/REACT/react_es6_variables.asp
+- [x] https://www.w3schools.com/REACT/react_es6_array_methods.asp
+- [ ] https://www.w3schools.com/REACT/react_es6_destructuring.asp
 
 ---
 
