@@ -9,8 +9,8 @@
 ### My Learning Progress
 - [x] https://www.w3schools.com/REACT/react_getstarted.asp
 - [x] https://www.w3schools.com/REACT/react_es6.asp
-- [ ] https://www.w3schools.com/REACT/react_es6_classes.asp
-
+- [x] https://www.w3schools.com/REACT/react_es6_classes.asp
+- [ ] https://www.w3schools.com/REACT/react_es6_arrow.asp
 
 ---
 

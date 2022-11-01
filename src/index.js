@@ -16,5 +16,16 @@ class Car {
   }
 }
 
-const mycar = new Car("Toyota");
-console.log(mycar.present());
+class Model extends Car {
+  constructor(brandName, modelName) {
+    super(brandName);
+    this.model = modelName;
+  }
+
+  show() {
+    return this.present() + ", it's a " + this.model;
+  }
+}
+
+const mycar = new Model("Toyota", "Rav4");
+console.log(mycar.show());
